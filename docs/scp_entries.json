@@ -1,0 +1,109 @@
+{
+    "002": {
+        "title": "SCP-002",
+        "image": "images/800px-SCP002.jpg",
+        "description": "A large fleshy spherical object resembling a mass of organic tissue.",
+        "content": "
+            <p><strong>Object Class:</strong> Euclid</p>
+            <p><strong>Description:</strong> SCP-002 is a large, fleshy, spherical object of unknown origin. The exterior is similar to human tissue and contains an extensive network of veins and arteries.</p>
+            <p>SCP-002 is capable of assimilating other objects and humans, incorporating them into its structure.</p>
+            <p><strong>Special Containment Procedures:</strong> SCP-002 is contained in a sealed chamber at Site-19 with reinforced walls.</p>",
+        "source": "hardcoded"
+    },
+    "003": {
+        "title": "SCP-003",
+        "image": "images/SCP3003_MBoard.jpg",
+        "description": "A sentient motherboard capable of self-repair and generating signals.",
+        "content": "
+            <p><strong>Object Class:</strong> Euclid</p>
+            <p><strong>Description:</strong> SCP-003 appears as a standard motherboard but is capable of self-repair and sending anomalous signals.</p>
+            <p>It exhibits rudimentary sentience and can influence electronic devices connected to it.</p>
+            <p><strong>Special Containment Procedures:</strong> SCP-003 is stored in a Faraday cage and monitored continuously.</p>",
+        "source": "hardcoded"
+    },
+    "004": {
+        "title": "SCP-004",
+        "image": "images/SCP004_door.jpg",
+        "description": "A large wooden barn door and a set of twelve rusted keys with mysterious powers.",
+        "content": "
+            <h3>Item #: SCP-004</h3>
+            <p><strong>Object Class:</strong> Euclid</p>
+            <h3>Special Containment Procedures:</h3>
+            <p>
+                SCP-004 consists of a large wooden barn door (SCP-004-1) and a set of twelve rusted keys (SCP-004-2 through SCP-004-13).
+                The door is the entrance to an abandoned factory located in [DATA EXPUNGED]. Proper procedures must be followed when handling SCP-004-2 through SCP-004-13.
+                These items are not permitted to be moved off-site unless accompanied by two Level 4 security personnel.
+                Unauthorized removal of keys from the testing area is grounds for immediate termination.
+            </p>
+            <p>Level 1 clearance is required for basic access to SCP-004-1, while Level 4 clearance is required for use of SCP-004-2 to -13.</p>
+            <h3>Description:</h3>
+            <p id=\"description-text\">
+                SCP-004 consists of the aforementioned wooden door, which seems to lead to a different dimension or spatial anomaly.
+                Attempts to open the door with any key other than SCP-004-7 or SCP-004-12 result in the dismemberment or complete disappearance of those who attempt to pass through.
+                When SCP-004-7 is used, the individual experiences an inexplicable vast space inside, larger than the structure it connects to.
+                Personnel who interact with SCP-004-12 often return in a catatonic state or exhibit severe psychological distress.
+            </p>
+            <h3>Chronological History:</h3>
+            <p>07/02/1949: A group of juveniles discovered the door and a set of keys, leading to the disappearance of one of their members (SCP-004-CAS01). Upon investigation, it was determined that opening the door resulted in violent consequences.</p>
+            <p>07/04/1949: After experimentation, it was found that only two keys, SCP-004-7 and SCP-004-12, allowed safe entry through the door. All other tests resulted in dismemberment or vanishing without a trace.</p>
+            <p>Testing continued throughout the 1950s, with further exploration into the space-time anomalies and alternate dimensions connected to SCP-004.
+                The door remains a dangerous anomaly, with further research ongoing.
+            </p>",
+        "source": "hardcoded"
+    },
+    "005": {
+        "title": "SCP-005",
+        "image": "images/SCP-005.jpg",
+        "description": "A key capable of opening any lock.",
+        "content": "
+            <p><strong>Object Class:</strong> Safe</p>
+            <p><strong>Description:</strong> SCP-005 is a small, ornate key that can open any lock regardless of the type or mechanism.</p>
+            <p>It appears to adapt its shape to the lock it is used on.</p>
+            <p><strong>Special Containment Procedures:</strong> SCP-005 is kept in a locked safe in the Secure Storage wing.</p>",
+        "source": "hardcoded"
+    },
+    "006": {
+        "title": "SCP-006",
+        "image": "images/SCP006_spring.jpg",
+        "description": "A small spring whose water has rejuvenating properties.",
+        "content": "
+            <p><strong>Object Class:</strong> Euclid</p>
+            <p><strong>Description:</strong> SCP-006 is a small spring with water that can heal and rejuvenate living organisms.</p>
+            <p>Water consumption grants rapid healing and temporarily reverses aging effects.</p>
+            <p><strong>Special Containment Procedures:</strong> SCP-006 is contained within a secured area with controlled access to prevent misuse.</p>",
+        "source": "hardcoded"
+    },
+    "007": {
+        "title": "SCP-007",
+        "image": "images/SCP-007_planet.jpg",
+        "description": "A small planet contained within a human abdomen.",
+        "content": "
+            <p><strong>Object Class:</strong> Safe</p>
+            <p><strong>Description:</strong> SCP-007 appears to be a miniature planet located inside the abdominal cavity of a human subject.</p>
+            <p>The planet exhibits a full ecosystem and exhibits day-night cycles.</p>
+            <p><strong>Special Containment Procedures:</strong> The host is monitored and kept under medical care at all times.</p>",
+        "source": "hardcoded"
+    },
+    "008": {
+        "title": "SCP-008",
+        "image": "images/SCP-008_Plague.jpg",
+        "description": "A contagious prion disease causing zombification.",
+        "content": "
+            <p><strong>Object Class:</strong> Keter</p>
+            <p><strong>Description:</strong> SCP-008 is a prion disease that transforms infected humans into aggressive zombie-like entities.</p>
+            <p>It spreads rapidly through bodily fluids and has caused several outbreaks.</p>
+            <p><strong>Special Containment Procedures:</strong> Infected individuals are to be quarantined or terminated to prevent spread.</p>",
+        "source": "hardcoded"
+    },
+    "009": {
+        "title": "SCP-009",
+        "image": "images/SCP009_Ice.jpg",
+        "description": "A substance resembling ice that is red and highly dangerous.",
+        "content": "
+            <p><strong>Object Class:</strong> Euclid</p>
+            <p><strong>Description:</strong> SCP-009 is a red ice-like substance that freezes at approximately 100°C and causes rapid freezing of organic tissue upon contact.</p>
+            <p>It appears to be water-based but exhibits anomalous thermodynamic properties.</p>
+            <p><strong>Special Containment Procedures:</strong> SCP-009 is stored in a refrigerated containment unit maintained at temperatures below -100°C to prevent sublimation and spread.</p>",
+        "source": "hardcoded"
+    }
+}
